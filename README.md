@@ -1,6 +1,6 @@
 # chia-pool-sync
 
-gie clone https://github.com/Qinyu-Xie/chia-pool-sync.git
+git clone https://github.com/Qinyu-Xie/chia-pool-sync.git
 
 cd chia-pool-sync
 
